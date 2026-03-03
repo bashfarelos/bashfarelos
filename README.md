@@ -1,16 +1,8 @@
-# <Backend /> | <Security />
+# &lt;Backend /&gt; | &lt;Cybersecurity /&gt;
 
-I am a Backend Developer dedicated to building scalable server-side applications with a strong emphasis on **Cybersecurity**.
+I am a Backend Developer dedicated to building scalable server-side applications with a strong emphasis on Cybersecurity.
 
 My focus is on designing robust architectures and secure APIs, bridging the gap between development and security. I am constantly studying vulnerabilities and defense mechanisms to write safer, more resilient code.
-
-<div align="center">
-  <img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/767176982601138188?simple=true" alt="Status" />
-  <img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/767176982601138188" alt="Playing" />
-  <img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/767176982601138188" alt="Coding" />
-  <img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/767176982601138188" alt="Spotify" />
-</div>
-
 
 ---
 
