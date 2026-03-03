@@ -1,10 +1,17 @@
-# &lt;Backend /&gt; | &lt;Security /&gt;
+# Hey There! 👋
 
-I am a Software Development Intern at <a href="https://compor.digital/" target="_blank">Agência Compor</a>, acting as a Full-stack Developer with a strong focus on infrastructure and automation. I build and maintain Multi-Tenant applications and CRM systems, handling everything from frontend interfaces to database schema design and business logic.
+I am a Software Development Intern at <a href="https://compor.digital/" target="_blank">Agência Compor</a>, acting as a **Full-stack Developer** with a focus on infrastructure and high-availability systems.
 
-My role goes beyond the application layer; I am responsible for the entire deployment lifecycle. This includes managing CI/CD pipelines, containerizing services with Docker Swarm, and configuring Nginx as a reverse proxy to ensure secure and scalable environments. I also orchestrate AI agents to optimize development workflows and system capabilities.
+### >_ What I do at Compor
+* **Full-stack Development**: Building Multi-Tenant apps and CRM systems from frontend to business logic.
+* **Architecture**: Designing database schemas and orchestrating AI agents for smarter workflows.
+* **Infrastructure**: Managing the full deployment lifecycle, including CI/CD pipelines and Docker Swarm.
+* **Reliability**: Configuring Nginx reverse proxies and DNS zones to ensure scalable and secure environments.
 
-Currently, I am also dedicated to studying **Reverse Engineering** and **Malware Analysis** as a personal interest, driven by a deep curiosity about low-level software behavior and security.
+---
+
+### >_ Beyond the Office
+Currently, I spend my free time diving into **Reverse Engineering** and **Malware Analysis**. It’s a personal deep-dive driven by a curiosity for low-level software behavior and security.
 
 ---
 
