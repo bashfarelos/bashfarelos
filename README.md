@@ -1,8 +1,12 @@
 # &lt;Backend /&gt; | &lt;Cybersecurity /&gt;
 
-I am a Backend Developer dedicated to building scalable server-side applications with a strong emphasis on Cybersecurity.
+# &lt;Backend /&gt; | &lt;Security /&gt;
 
-My focus is on designing robust architectures and secure APIs, bridging the gap between development and security. I am constantly studying vulnerabilities and defense mechanisms to write safer, more resilient code.
+I am a Software Development Intern at [Agência Compor](https://compor.digital/), acting as a Full-stack Developer with a strong focus on infrastructure and automation. I build and maintain Multi-Tenant applications and CRM systems, handling everything from frontend interfaces to complex database schema design and business logic.
+
+My role goes beyond the application layer; I am responsible for the entire deployment lifecycle. This includes managing CI/CD pipelines, containerizing services with Docker Swarm, and configuring Nginx as a reverse proxy to ensure secure and scalable environments. I also orchestrate AI agents to optimize development workflows and system capabilities.
+
+I am driven by the intersection of Software Architecture and Cybersecurity, always aiming to build systems that are not only functional but resilient by design.
 
 ---
 
