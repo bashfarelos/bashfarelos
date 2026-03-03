@@ -38,11 +38,9 @@ My focus is on designing robust architectures and secure APIs, bridging the gap 
 ## >_ Currently Reading
 
 | | |
-|---|---|
-| <img src="https://raw.githubusercontent.com/cauefaleiros/cauefaleiros/main/low_level_cover.jpg" width="100" alt="Low-Level Programming: C, Assembly, and Program Execution on Intel® 64 Architecture  cover"/> | **Low-Level Programming: C, Assembly, and Program Execution on Intel® 64 Architecture**<br>*by Igor Zhirkov*<br><br>A comprehensive introduction to programming languages, covering concepts, paradigms, and design. |
-| <img src="https://raw.githubusercontent.com/cauefaleiros/cauefaleiros/main/practical_malware_cover.jpg" width="100" alt="Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software cover"/> | **Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software**<br>*by Michael Sikorski and Andrew Honig*<br><br>Malware analysis is big business, and attacks can cost a company dearly. When malware breaches your defenses, you need to act quickly to cure current infections and prevent future ones from occurring.
-
-For those who want to stay ahead of the latest malware, Practical Malware Analysis will teach you the tools and techniques used by professional analysts. With this book as your guide, you'll be able to safely analyze, debug, and disassemble any malicious software that comes your way. |
+| :---: | --- |
+| <img src="https://raw.githubusercontent.com/cauefaleiros/cauefaleiros/main/low_level_cover.jpg" width="160" alt="Low-Level Programming cover"/> | **Low-Level Programming: C, Assembly, and Program Execution on Intel® 64 Architecture**<br>*by Igor Zhirkov*<br><br>Explores the bridge between high-level code and hardware. This book covers modern Intel 64 architecture, assembly language, and C, with a deep dive into compilation processes, memory management, and performance optimization. |
+| <img src="https://raw.githubusercontent.com/cauefaleiros/cauefaleiros/main/practical_malware_cover.jpg" width="160" alt="Practical Malware Analysis cover"/> | **Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software**<br>*by Michael Sikorski and Andrew Honig*<br><br>The "bible" of malware analysis. It provides a comprehensive, hands-on approach to dissecting malicious binaries using static and dynamic analysis, debugging, and reverse engineering to understand attacker's motives and techniques. |
 
 ---
 
