@@ -1,30 +1,64 @@
-# Hi, I'm a Backend Developer and Computer Enthusiast
+# <Backend /> | <Security />
 
-Passionate about backend development and always eager to learn new things, constantly working to improve no matter how long it takes. Fascinated by programming theory, language design, and low-level programming.
+I am a Backend Developer dedicated to building scalable server-side applications with a strong emphasis on **Cybersecurity**.
 
----
+My focus is on designing robust architectures and secure APIs, bridging the gap between development and security. I am constantly studying vulnerabilities and defense mechanisms to write safer, more resilient code.
 
-## Technologies I Work With
-- Ruby on Rails
-- Python (FastAPI, Django)
-- Java (Springboot)
-- C
-- HTML, CSS
-- Linux
-- Docker
-- PostgreSQL, MongoDB
-- Git
+<div align="center">
+  <img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/767176982601138188?simple=true" alt="Status" />
+  <img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/767176982601138188" alt="Playing" />
+  <img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/767176982601138188" alt="Coding" />
+  <img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/767176982601138188" alt="Spotify" />
+</div>
+
 
 ---
 
-## Currently Reading
+## >_ Tech Stack
+
+### // Languages
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=go,java,python,c,bash" />
+</div>
+
+### // Backend Ecosystem
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=spring,django,fastapi,postgres,mongodb,redis,rabbitmq" />
+</div>
+
+### // Frontend
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,htmx" />
+</div>
+
+### // DevOps & Observability
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,grafana,prometheus" />
+</div>
+
+### // Tools & OS
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,arch,windows,kali" />
+</div>
+
+---
+
+## >_ Currently Reading
+
 | | |
 |---|---|
-| <img src="https://raw.githubusercontent.com/cauefaleiros/cauefaleiros/main/concepts-of-programming-languages.jpg" width="180" alt="Concepts of Programming Languages cover"/> | **Concepts of Programming Languages**<br>*by Robert W. Sebesta*<br><br>A comprehensive introduction to programming languages, covering concepts, paradigms, and design. |
-| <img src="https://raw.githubusercontent.com/cauefaleiros/cauefaleiros/main/introductory-discrete-mathematics.jpg" width="180" alt="Introductory Discrete Mathematics cover"/> | **Introductory Discrete Mathematics**<br>*by V. K. Balakrishnan*<br><br>An introduction to discrete mathematics, covering fundamental concepts and mathematical structures. |
+| <img src="https://raw.githubusercontent.com/cauefaleiros/cauefaleiros/main/concepts-of-programming-languages.jpg" width="100" alt="Concepts of Programming Languages cover"/> | **Concepts of Programming Languages**<br>*by Robert W. Sebesta*<br><br>A comprehensive introduction to programming languages, covering concepts, paradigms, and design. |
+| <img src="https://raw.githubusercontent.com/cauefaleiros/cauefaleiros/main/introductory-discrete-mathematics.jpg" width="100" alt="Introductory Discrete Mathematics cover"/> | **Introductory Discrete Mathematics**<br>*by V. K. Balakrishnan*<br><br>An introduction to discrete mathematics, covering fundamental concepts and mathematical structures. |
 
 ---
 
-## Contacts
-📫 E-mail: [cauefaleiros@gmail.com](mailto:cauefaleiros@gmail.com)  
-💼 LinkedIn: [Cauê Faleiros](https://www.linkedin.com/in/cauefaleiros/)
+## >_ Connect with Me
+
+<div align="left">
+  <a href="mailto:cauefaleiros@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/cauefaleiros/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
