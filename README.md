@@ -1,7 +1,5 @@
 # &lt;Backend /&gt; | &lt;Cybersecurity /&gt;
 
-# &lt;Backend /&gt; | &lt;Security /&gt;
-
 I am a Software Development Intern at [Agência Compor](https://compor.digital/), acting as a Full-stack Developer with a strong focus on infrastructure and automation. I build and maintain Multi-Tenant applications and CRM systems, handling everything from frontend interfaces to complex database schema design and business logic.
 
 My role goes beyond the application layer; I am responsible for the entire deployment lifecycle. This includes managing CI/CD pipelines, containerizing services with Docker Swarm, and configuring Nginx as a reverse proxy to ensure secure and scalable environments. I also orchestrate AI agents to optimize development workflows and system capabilities.
